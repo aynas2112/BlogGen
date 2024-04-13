@@ -1,0 +1,2 @@
+open_ai_api="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"
+gemini="AIzaSyBan6zy3iHNV1EhYAA6ZTkLWZZfuZ2tNlc"
